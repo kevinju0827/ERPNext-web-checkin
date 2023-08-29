@@ -1,5 +1,7 @@
 # ERPNext-web-checkin
-This is a Custom HTML Block for ERPNext to check in on web.
+This is a Custom HTML Block for [ERPNext](https://github.com/frappe/erpnext) to check in on web.
+
+![ERPNext-webb-checkin-display](https://github.com/kevinju0827/ERPNext-web-checkin/assets/34978224/a560980d-0fac-4717-8826-393b86a012b4)
 
 ## Installation
 
