@@ -6,7 +6,7 @@ This is a Custom HTML Block for [ERPNext](https://github.com/frappe/erpnext) to 
 ## Installation
 
 Currently, ERPNext does not support Custom HTML Block import.
-Please manually create Custom HTML Block and copy the content in ERPNext_web_checkin.csv
+Please manually create Custom HTML Block and copy the content in `src/index.html` and `src/index.js`
 
 ## Features
 
